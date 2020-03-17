@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------------------------------------------------------
+Carregue o addon digitando /load -rs "(pasta onde está o arquivo)\risadas\risada.mrc"
+Tem que colocar as aspas
+Depois de ter carregado digite /risadas e aparecerá um arquivo .txt
+Coloque lá suas risadas
+Agora sempre que apertar F3 sua risada sairá com o contador, cálculo e som!
+Se a tecla F3 ja estiver sendo usada como outro comando, mude no editor a tecla
+  da risada para outro comando
+-------------------------------------------------------------------------------------------------------------------------------
+
+Bom uso!
+                 By HenriqueVitoi / Hav_gt_sdw
